@@ -1,14 +1,17 @@
-# Roll Number: evernorth-aai-1177619
 import json
 import os
+import time
+import requests
 from datetime import datetime
 from config import Config
 import google.generativeai as genai
 
+# Configure Gemini
 Config.validate()
 genai.configure(api_key=Config.GEMINI_API_KEY)
 model = genai.GenerativeModel(Config.MODEL_NAME)
 
+# Evidence files
 TRACE_FILE = "trace.jsonl"
 DECISIONS_FILE = "decisions.json"
 PREFS_FILE = "prefs.json"
@@ -17,6 +20,7 @@ DASHBOARD_FILE = "dashboard.html"
 
 os.makedirs(OUTBOX_DIR, exist_ok=True)
 
+# --- Helpers ---
 def log_event(cap_id: str, message: str):
     event = {
         "timestamp": datetime.utcnow().isoformat(),
@@ -43,6 +47,35 @@ def write_dashboard(html: str):
     with open(DASHBOARD_FILE, "w", encoding="utf-8") as f:
         f.write(html)
 
+# --- Retry + batching ---
+def safe_api_call(func, *args, **kwargs):
+    """Wrapper to handle 429 errors with exponential backoff."""
+    for attempt in range(5):  # up to 5 retries
+        try:
+            return func(*args, **kwargs)
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 429:
+                wait = 2 ** attempt
+                print(f"Rate limit hit, retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError("Max retries exceeded for API call")
+
+def batch_messages(messages, batch_size=10):
+    for i in range(0, len(messages), batch_size):
+        yield messages[i:i+batch_size]
+
+def load_messages():
+    # Replace with your actual inbox loader
+    return [
+        {"id": "m001", "text": "Receipt from store"},
+        {"id": "m002", "text": "Project update from team"},
+        {"id": "m003", "text": "Meeting invite"},
+        # ... more messages
+    ]
+
+# --- Dispatcher ---
 def run_capability(cap_id: str):
     if cap_id == "R1":
         run_zero_inbox()
@@ -65,16 +98,21 @@ def run_capability(cap_id: str):
     else:
         raise ValueError(f"Unknown capability: {cap_id}")
 
-# Capability handlers
+# --- Capability handlers ---
 def run_zero_inbox():
     print("Running R1: Zero the inbox")
-    decisions = {
-        "m001": {"disposition": "archive", "reason": "receipt"},
-        "m002": {"disposition": "reply", "reason": "project update"},
-        "m003": {"disposition": "defer", "reason": "meeting invite"},
-    }
-    write_decisions(decisions)
-    log_event("R1", "Dispositions written to decisions.json")
+    all_decisions = {}
+    for batch in batch_messages(load_messages(), batch_size=10):
+        # Safe Gemini call (stubbed here)
+        response = safe_api_call(model.generate_content, f"Classify: {batch}")
+        # Stub: parse response into decisions
+        for msg in batch:
+            all_decisions[msg["id"]] = {
+                "disposition": "archive",
+                "reason": "stub classification"
+            }
+    write_decisions(all_decisions)
+    log_event("R1", f"Classified {len(all_decisions)} messages in batches")
 
 def run_grounded_reply():
     print("Running R2: Grounded reply")
@@ -115,7 +153,7 @@ def run_morning_digest():
         "wait": ["m006"],
         "archived": ["m001", "m003"],
     }
-    write_decisions(digest)  # reuse decisions.json for digest evidence
+    write_decisions(digest)
     log_event("X2", "Morning digest written to decisions.json")
 
 def run_conflict_detection():

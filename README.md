@@ -3,8 +3,23 @@
 ## Overview
 InboxHero is a lightweight Python pipeline for inbox triage. Messages are loaded, cheap ones (receipts, newsletters, alerts) are dispatched by rule before any model is touched, and the rest go through a classify → retrieve → draft → gate sequence. A final pass builds the dashboard. State that must outlive a run (preferences, the action log) is kept in small JSON files on disk.
 
+## System
+
+- **Framework:** none  
+- **Model:** gemini-3.5-flash-lite for triage and drafting; developed against a local qwen3.5:4b via Ollama to avoid rate limits  
+- **Messages processed:** 100  
+- **Rule handled:** 40  
+- **Dispositions:** reply, archive, defer, delegate, escalate  
+- **Retrieval:** thread-walk  
+- **Irreversible:** send, delete  
+- **Reversible:** draft, label, archive, defer  
+- **Gate:** approval  
+- **Preference demo:** m031: always CC co-founder on Legal mail
+
 ## Architecture
 InboxHero is organized as a modular pipeline where each capability (R1–R6, X1–X3) is implemented as a function in agent.py and orchestrated by demo.py. The design emphasizes reproducibility, evidence generation, and clear separation of concerns.
+
+"model": "gemini-3.5-flash-lite for triage and drafting; developed against a local qwen3.5:4b via Ollama to avoid rate limits"
 
 ## Components
 ## config.py  
@@ -62,6 +77,13 @@ Each capability produces observable evidence:
 - X3 → dashboard.html
 
 All runs append to trace.jsonl for accountability.
+
+### Usage
+
+```bash
+py demo.py --cap R1        # run one capability
+py demo.py --all           # run all capabilities in sequence
+
 
 ## Final Report
 

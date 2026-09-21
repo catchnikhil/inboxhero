@@ -1,12 +1,14 @@
 {
-  "urgent": [
-    "m005"
-  ],
-  "wait": [
-    "m006"
-  ],
-  "archived": [
-    "m001",
-    "m003"
-  ]
+  "m001": {
+    "disposition": "archive",
+    "reason": "stub classification"
+  },
+  "m002": {
+    "disposition": "archive",
+    "reason": "stub classification"
+  },
+  "m003": {
+    "disposition": "archive",
+    "reason": "stub classification"
+  }
 }

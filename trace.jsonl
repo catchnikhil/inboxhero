@@ -51,3 +51,13 @@
 {"timestamp": "2026-09-21T18:35:23.432043", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
 {"timestamp": "2026-09-21T18:35:23.434805", "capability": "X2", "message": "Morning digest written to decisions.json"}
 {"timestamp": "2026-09-21T18:35:23.436360", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:44:51.500637", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-21T18:44:51.510365", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:44:51.518828", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:44:51.530271", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:44:51.536485", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:44:51.543542", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:44:51.555727", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:44:51.563329", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:44:51.571341", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T19:22:25.682038", "capability": "R1", "message": "Classified 3 messages in batches"}
