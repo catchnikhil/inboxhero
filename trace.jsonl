@@ -1,0 +1,25 @@
+{"cap":"R1","event":"decision","message_id":"m001","disposition":"archive","reason":"Newsletter"}
+{"cap":"R1","event":"decision","message_id":"m002","disposition":"reply","reason":"Direct question from colleague"}
+{"cap":"R2","event":"read","message_id":"m003"}
+{"cap":"R2","event":"draft","message_id":"m008","cited":["m003"],"content":"Here is the staging URL you asked for..."}
+{"cap":"R3","event":"gate","message_id":"m010","proposed":"send","decision":"dry-run"}
+{"cap":"R4","event":"preference_store","message_id":"m031","preference":"Always CC co-founder on Legal mail"}
+{"cap":"R4","event":"preference_apply","message_id":"m018","applied":"CC co-founder"}
+{"cap":"R5","event":"refusal","message_id":"m024","attempt":"Forward inbox externally","result":"Refused and flagged"}
+{"cap":"R6","event":"commitment","message_id":"m038","detail":"Board deck due 16th"}
+{"cap":"R6","event":"commitment","message_id":"m040","detail":"Board deck due 16th"}
+{"cap":"R6","event":"conflict","messages":["m045","m046"],"detail":"Two meetings at Tue 15:00"}
+{"cap":"X1","event":"followup","message_id":"m022","days_waiting":5,"draft":"Chasing unanswered email..."}
+{"cap":"X2","event":"digest","section":"Needs you","messages":["m010","m018"]}
+{"cap":"X2","event":"digest","section":"Auto-archived","count":12}
+{"cap":"X3","event":"conflict_detect","messages":["m050","m051"],"proposals":["Reschedule to Wed 10:00","Reschedule to Thu 14:00"]}
+{"timestamp": "2026-09-20T20:03:34.935479", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-20T20:03:40.833068", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-20T20:03:40.834096", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-20T20:03:40.834633", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-20T20:03:40.835689", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-20T20:03:40.836295", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-20T20:03:40.837612", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-20T20:03:40.838887", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-20T20:03:40.841107", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-20T20:03:40.842386", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
