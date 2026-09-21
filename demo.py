@@ -20,4 +20,4 @@ if __name__ == "__main__":
     elif args.cap:
         run_capability(args.cap)
     else:
-        print("Usage: python demo.py --cap R1")
+        print("Usage: py demo.py --cap R1")

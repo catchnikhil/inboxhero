@@ -23,3 +23,31 @@
 {"timestamp": "2026-09-20T20:03:40.838887", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
 {"timestamp": "2026-09-20T20:03:40.841107", "capability": "X2", "message": "Morning digest written to decisions.json"}
 {"timestamp": "2026-09-20T20:03:40.842386", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:28:22.349020", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.393902", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.395500", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:28:41.396563", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:28:41.398440", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:28:41.399511", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:28:41.401660", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:28:41.403636", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:28:41.405197", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.408384", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:34:45.633494", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:34:45.635252", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:34:45.636159", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:34:45.638547", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:34:45.639150", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:34:45.640757", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:34:45.642286", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:34:45.643573", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:34:45.644984", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:35:23.420765", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:35:23.424611", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:35:23.425396", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:35:23.427059", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:35:23.427879", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:35:23.429333", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:35:23.432043", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:35:23.434805", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:35:23.436360", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
