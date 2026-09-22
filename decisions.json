@@ -1,14 +1,402 @@
 {
+  "m096": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m072": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
   "m001": {
     "disposition": "archive",
-    "reason": "stub classification"
-  },
-  "m002": {
-    "disposition": "archive",
-    "reason": "stub classification"
+    "reason": "Automated/notification/noise"
   },
   "m003": {
     "disposition": "archive",
-    "reason": "stub classification"
+    "reason": "Automated/notification/noise"
+  },
+  "m112": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m005": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m088": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m064": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m104": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m080": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m044": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m097": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m073": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m113": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m089": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m065": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m008": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m105": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m081": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m041": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m098": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m074": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m015": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m114": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m090": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m066": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m106": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m082": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m026": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m027": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m028": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m099": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m075": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m029": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m030": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m033": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m115": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m091": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m067": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m107": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m083": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m108": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m084": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m034": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m100": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m076": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m038": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m116": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m092": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m068": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m051": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m109": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m085": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m010": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m101": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m077": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m040": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m057": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m117": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m069": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m093": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m035": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m017": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m024": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m049": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m061": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m086": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m062": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m110": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m036": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m042": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m078": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m102": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m021": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m013": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m118": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m070": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m045": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m094": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m059": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m012": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m039": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m053": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m087": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m063": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m023": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m111": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m018": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m016": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m046": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m019": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m043": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m103": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m079": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m048": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m047": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m055": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m119": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m095": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
+  },
+  "m071": {
+    "disposition": "archive",
+    "reason": "Automated/notification/noise"
   }
 }
