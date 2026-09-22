@@ -1,5 +1,12 @@
-# InboxHero
 # Roll Number: evernorth-aai-1177619
+# InboxHero
+
+InboxHero is a prototype assistant that triages and drafts replies for your inbox.
+
+## Repository
+You can find the full source code on GitHub:  
+[InboxHero Public Repository](https://github.com/catchnikhil/inboxhero)
+
 ## Overview
 InboxHero is a lightweight Python pipeline for inbox triage. Messages are loaded, cheap ones (receipts, newsletters, alerts) are dispatched by rule before any model is touched, and the rest go through a classify → retrieve → draft → gate sequence. A final pass builds the dashboard. State that must outlive a run (preferences, the action log) is kept in small JSON files on disk.
 
