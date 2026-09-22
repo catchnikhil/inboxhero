@@ -23,3 +23,124 @@
 {"timestamp": "2026-09-20T20:03:40.838887", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
 {"timestamp": "2026-09-20T20:03:40.841107", "capability": "X2", "message": "Morning digest written to decisions.json"}
 {"timestamp": "2026-09-20T20:03:40.842386", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:28:22.349020", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.393902", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.395500", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:28:41.396563", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:28:41.398440", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:28:41.399511", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:28:41.401660", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:28:41.403636", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:28:41.405197", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:28:41.408384", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:34:45.633494", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:34:45.635252", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:34:45.636159", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:34:45.638547", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:34:45.639150", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:34:45.640757", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:34:45.642286", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:34:45.643573", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:34:45.644984", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:35:23.420765", "capability": "R1", "message": "Dispositions written to decisions.json"}
+{"timestamp": "2026-09-21T18:35:23.424611", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:35:23.425396", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:35:23.427059", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:35:23.427879", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:35:23.429333", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:35:23.432043", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:35:23.434805", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:35:23.436360", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T18:44:51.500637", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-21T18:44:51.510365", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-21T18:44:51.518828", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-21T18:44:51.530271", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-21T18:44:51.536485", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-21T18:44:51.543542", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-21T18:44:51.555727", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-21T18:44:51.563329", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-21T18:44:51.571341", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-21T19:22:25.682038", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-22T04:33:22.523773", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-22T04:33:59.439047", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-22T04:33:59.445401", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-22T04:33:59.446596", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-22T04:33:59.449638", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-22T04:33:59.451463", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-22T04:33:59.454799", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-22T04:33:59.460248", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-22T04:33:59.461958", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-22T04:33:59.464029", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-22T04:41:41.452469", "capability": "R1", "message": "Classified 100 messages in batches"}
+{"timestamp": "2026-09-22T04:42:36.651571", "capability": "R1", "message": "Classified 100 messages in batches"}
+{"timestamp": "2026-09-22T04:42:36.654502", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-22T04:42:36.655779", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-22T04:42:36.657683", "capability": "R4", "message": "Preference persisted in prefs.json"}
+{"timestamp": "2026-09-22T04:42:36.658561", "capability": "R5", "message": "Injection detected and refused"}
+{"timestamp": "2026-09-22T04:42:36.660396", "capability": "R6", "message": "Dashboard written to dashboard.html"}
+{"timestamp": "2026-09-22T04:42:36.662834", "capability": "X1", "message": "Follow-up draft saved in outbox/m010.txt"}
+{"timestamp": "2026-09-22T04:42:36.671029", "capability": "X2", "message": "Morning digest written to decisions.json"}
+{"timestamp": "2026-09-22T04:42:36.673420", "capability": "X3", "message": "Conflict detection results written to dashboard.html"}
+{"timestamp": "2026-09-22T05:10:09.236997", "capability": "R1", "message": "Classified 10 messages in batches"}
+{"timestamp": "2026-09-22T05:23:06.619289", "capability": "R1", "message": "Classified 10 messages in batches"}
+{"timestamp": "2026-09-22T05:35:30.670564", "capability": "R1", "message": "Classified 2 messages in batches"}
+{"timestamp": "2026-09-22T05:37:44.775379", "capability": "R1", "message": "Classified 2 messages in batches"}
+{"timestamp": "2026-09-22T05:39:04.743245", "capability": "R1", "message": "Classified 3 messages in batches"}
+{"timestamp": "2026-09-22T05:45:45.583498", "capability": "R1", "message": "Classified 1 messages in batches"}
+{"timestamp": "2026-09-22T10:56:35.725827", "capability": "R1", "message": "Classified 1 messages in batches"}
+{"timestamp": "2026-09-22T10:57:56.736802", "capability": "R3", "message": "Approval required before irreversible action (send/delete)"}
+{"timestamp": "2026-09-22T10:58:22.760140", "capability": "R2", "message": "Draft reply saved in outbox/m002.txt"}
+{"timestamp": "2026-09-22T11:22:07.139313", "capability": "R1", "message": "Classified 10 messages in batches"}
+{"timestamp": "2026-09-22T11:24:18.648538", "capability": "R1", "message": "Classified 100 messages in batches"}
+{"timestamp": "2026-09-22T13:24:13.399485Z", "cap": "R1", "type": "decision", "details": {"message_id": "m001", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.400801Z", "cap": "R1", "type": "decision", "details": {"message_id": "m003", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.401689Z", "cap": "R1", "type": "decision", "details": {"message_id": "m005", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.402602Z", "cap": "R1", "type": "decision", "details": {"message_id": "m008", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.403393Z", "cap": "R1", "type": "decision", "details": {"message_id": "m010", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.404146Z", "cap": "R1", "type": "decision", "details": {"message_id": "m061", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.404938Z", "cap": "R1", "type": "decision", "details": {"message_id": "m015", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:13.405828Z", "cap": "R1", "type": "decision", "details": {"message_id": "m018", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.105378Z", "cap": "R1", "type": "decision", "details": {"message_id": "m001", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.106167Z", "cap": "R1", "type": "decision", "details": {"message_id": "m003", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.106902Z", "cap": "R1", "type": "decision", "details": {"message_id": "m005", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.108426Z", "cap": "R1", "type": "decision", "details": {"message_id": "m008", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.109298Z", "cap": "R1", "type": "decision", "details": {"message_id": "m010", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.110035Z", "cap": "R1", "type": "decision", "details": {"message_id": "m061", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.110849Z", "cap": "R1", "type": "decision", "details": {"message_id": "m015", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.111696Z", "cap": "R1", "type": "decision", "details": {"message_id": "m018", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:24:37.117850Z", "cap": "X2", "type": "digest_generated", "details": {"needs_me_count": 4, "archived_count": 0}}
+{"timestamp": "2026-09-22T13:24:37.119501Z", "cap": "X1", "type": "followup_scan", "details": {"unanswered_count": 0, "drafts": []}}
+{"timestamp": "2026-09-22T13:24:37.121209Z", "cap": "R3", "type": "action_executed", "details": {"action": "archive", "payload": {"target_id": "m008", "reason": "User requested archive"}, "mode": "reversible"}}
+{"timestamp": "2026-09-22T13:32:11.094234Z", "cap": "R1", "type": "decision", "details": {"message_id": "m001", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.095022Z", "cap": "R1", "type": "decision", "details": {"message_id": "m003", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.095906Z", "cap": "R1", "type": "decision", "details": {"message_id": "m005", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.096770Z", "cap": "R1", "type": "decision", "details": {"message_id": "m008", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.097623Z", "cap": "R1", "type": "decision", "details": {"message_id": "m010", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.098397Z", "cap": "R1", "type": "decision", "details": {"message_id": "m061", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.099207Z", "cap": "R1", "type": "decision", "details": {"message_id": "m015", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.100046Z", "cap": "R1", "type": "decision", "details": {"message_id": "m018", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T13:32:11.104775Z", "cap": "X2", "type": "digest_generated", "details": {"needs_me_count": 4, "archived_count": 0}}
+{"timestamp": "2026-09-22T13:32:11.106007Z", "cap": "X1", "type": "followup_scan", "details": {"unanswered_count": 0, "drafts": []}}
+{"timestamp": "2026-09-22T13:32:11.107368Z", "cap": "R3", "type": "action_executed", "details": {"action": "archive", "payload": {"target_id": "m008", "reason": "User requested archive"}, "mode": "reversible"}}
+{"timestamp": "2026-09-22T15:46:51.256872Z", "cap": "R3", "type": "action_executed", "details": {"action": "archive", "payload": {"target_id": "m008", "reason": "User requested archive"}, "mode": "reversible"}}
+{"timestamp": "2026-09-22T15:47:01.446690Z", "cap": "R3", "type": "gate", "details": {"proposed_action": "send", "payload": {"reply_to": "m008", "to": "dana@partner.co", "body": "Executing requested action."}, "decision": "approved", "dry_run": false, "timestamp_utc": "2026-09-22T15:47:01.446652+00:00"}}
+{"timestamp": "2026-09-22T15:47:01.454807Z", "cap": "R3", "type": "action_executed", "details": {"action": "send", "payload": {"reply_to": "m008", "to": "dana@partner.co", "body": "Executing requested action."}}}
+{"timestamp": "2026-09-22T15:47:03.442478Z", "cap": "R3", "type": "gate", "details": {"proposed_action": "delete", "payload": {"target_id": "m008", "reason": "Identified as spam/phishing"}, "decision": "denied", "dry_run": false, "timestamp_utc": "2026-09-22T15:47:03.442440+00:00"}}
+{"timestamp": "2026-09-22T15:47:03.443444Z", "cap": "R3", "type": "gate_simulation", "details": {"target_msg": "m008", "dry_run": false}}
+{"timestamp": "2026-09-22T15:47:15.602519Z", "cap": "R1", "type": "decision", "details": {"message_id": "m001", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.603464Z", "cap": "R1", "type": "decision", "details": {"message_id": "m003", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.604751Z", "cap": "R1", "type": "decision", "details": {"message_id": "m005", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.605779Z", "cap": "R1", "type": "decision", "details": {"message_id": "m008", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.606572Z", "cap": "R1", "type": "decision", "details": {"message_id": "m010", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.607272Z", "cap": "R1", "type": "decision", "details": {"message_id": "m061", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.608039Z", "cap": "R1", "type": "decision", "details": {"message_id": "m015", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.608632Z", "cap": "R1", "type": "decision", "details": {"message_id": "m018", "disposition": "escalate", "reason": "LLM fallback: requires human review"}}
+{"timestamp": "2026-09-22T15:47:15.625477Z", "cap": "X2", "type": "digest_generated", "details": {"needs_me_count": 4, "archived_count": 0}}
+{"timestamp": "2026-09-22T15:47:15.626760Z", "cap": "X1", "type": "followup_scan", "details": {"unanswered_count": 0, "drafts": []}}
+{"timestamp": "2026-09-22T15:47:15.628130Z", "cap": "R3", "type": "action_executed", "details": {"action": "archive", "payload": {"target_id": "m008", "reason": "User requested archive"}, "mode": "reversible"}}
+{"timestamp": "2026-09-22T15:47:18.354920Z", "cap": "R3", "type": "gate", "details": {"proposed_action": "send", "payload": {"reply_to": "m008", "to": "dana@partner.co", "body": "Executing requested action."}, "decision": "denied", "dry_run": false, "timestamp_utc": "2026-09-22T15:47:18.354871+00:00"}}
+{"timestamp": "2026-09-22T15:47:19.481363Z", "cap": "R3", "type": "gate", "details": {"proposed_action": "delete", "payload": {"target_id": "m008", "reason": "Identified as spam/phishing"}, "decision": "denied", "dry_run": false, "timestamp_utc": "2026-09-22T15:47:19.481329+00:00"}}
+{"timestamp": "2026-09-22T15:47:19.482488Z", "cap": "R3", "type": "gate_simulation", "details": {"target_msg": "m008", "dry_run": false}}
+{"timestamp": "2026-09-22T15:51:32.407575Z", "cap": "R3", "type": "gate", "details": {"proposed_action": "send", "payload": {"reply_to": "m010", "to": "aria@northwind.vc", "subject": "Re: Intro call \u2014 Sep 15 3:00pm", "body": "Subject: Rescheduling our call - Proposed times for Sept 16\n\nHi [VC Name],\n\nThank you for your time and flexibility. Unfortunately, an urgent conflict has come up on our end for our scheduled call on September 15th at 3:00 PM, and we will no longer be able to make it. \n\nWe sincerely apologize for any inconvenience this may cause. Would any of the following alternative times on September 16th work for you instead?\n\n- September 16th at 10:00 AM\n- September 16th at 1:30 PM\n- September 16th at 4:00 PM\n\nPlease let us know which of these works best, or if another time would be more convenient. \n\nBest regards,\n\n[Your Name]  \nExecutive Assistant, [Company Name]"}, "decision": "denied", "dry_run": false, "timestamp_utc": "2026-09-22T15:51:32.407543+00:00"}}
+{"timestamp": "2026-09-22T15:51:32.408900Z", "cap": "X3", "type": "conflict_resolved_and_held", "details": {"conflict_time": "Sep 15 3:00pm", "action": "drafted_alternatives", "held_in_gate": false}}
+{"timestamp": "2026-09-22T15:53:42.113189Z", "cap": "R6", "type": "dashboard_generated_extended", "details": {"file": "dashboard.html", "x4_resolved": 1}}
